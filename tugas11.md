@@ -1,22 +1,22 @@
 # Tugas 11
 
 ## 1. Login
-[Alt text](/screenshot/tugas11/login.png)
+![Alt text](/screenshot/tugas11/login.png)
 
 ## 2. Profile
-[Alt text](/screenshot/tugas11/profile.png)
+![Alt text](/screenshot/tugas11/profile.png)
 
 ## 3. Todo Index
-[Alt text](/screenshot/tugas11/todoindex.png)
+![Alt text](/screenshot/tugas11/todoindex.png)
 
 ## 4. Todo Show
-[Alt text](/screenshot/tugas11/todoshow.png)
+![Alt text](/screenshot/tugas11/todoshow.png)
 
 ## 5. Todo Todo Show Forbidden
-[Alt text](/screenshot/tugas11/forbidden.png)
+![Alt text](/screenshot/tugas11/forbidden.png)
 
 ## 6. Todo Search
-[Alt text](/screenshot/tugas11/todosearch.png)
+![Alt text](/screenshot/tugas11/todosearch.png)
 
 ## 7. Logout
-[Alt text](/screenshot/tugas11/logout.png)
+![Alt text](/screenshot/tugas11/logout.png)
